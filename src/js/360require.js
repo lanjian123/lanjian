@@ -1,0 +1,1 @@
+define(['js/angular.min','js/angular-ui-router.min','js/jquery','js/app','css/sass'])
